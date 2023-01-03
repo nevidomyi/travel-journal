@@ -1,10 +1,10 @@
 ## About
 
 My attempt at working with React props\
-Including:
--React props
--React components
--React create app
+Including:\
+-React props\
+-React components\
+-React create app\
 -JSX
 
 Was created car, which is taking data from data.js
