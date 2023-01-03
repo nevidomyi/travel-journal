@@ -5,7 +5,7 @@ Including:
 -React props
 -React components
 -React create app
--JSX\
+-JSX
 
 Was created car, which is taking data from data.js
 
