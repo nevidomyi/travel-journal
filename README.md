@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+## About
+
+My attempt at working with React props
+Including:
+-React props
+-React components
+-React create app
+-JSX
+
+Was created car, which is taking data from data.js
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
