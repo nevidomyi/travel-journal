@@ -11,6 +11,8 @@ Was created car, which is taking data from data.js
 
 [Template link](https://www.figma.com/file/N19kN3XGZiVt62Jtkudw1m/Travel-Journal-(Copy)?node-id=0%3A1&t=sGDBccEoMWF9qksn-0)
 
+![Travel journal nail](https://user-images.githubusercontent.com/47025875/210410388-9b85a76b-e60b-45ca-b411-35d1bf84a98f.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -81,3 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
