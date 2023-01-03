@@ -9,6 +9,8 @@ Including:
 
 Was created car, which is taking data from data.js
 
+[Template link](https://www.figma.com/file/N19kN3XGZiVt62Jtkudw1m/Travel-Journal-(Copy)?node-id=0%3A1&t=sGDBccEoMWF9qksn-0)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
